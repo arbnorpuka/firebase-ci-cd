@@ -13,7 +13,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Firebase CI/CD</h1>
+      <h1>Firebase CI/CD + GitHub Actions</h1>
     </>
   )
 }
